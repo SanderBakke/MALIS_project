@@ -73,7 +73,3 @@ We started with a simple classification model to predict outcomes (win, loss, or
    - Use metrics like F1-score and AUC for balanced assessment.
 4. **Dataset Expansion**:
    - Explore APIs for richer datasets.
-
----
-
-Would you like the notebook code or more detailed sections of the report?
